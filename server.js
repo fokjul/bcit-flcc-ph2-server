@@ -28,4 +28,6 @@ app.use("/courses", courseRoutes);
 //     console.error("Error syncing the database", error);
 // });
 
+app.listen(3001, () => console.log("Server ready on port 3001."));
+
 module.exports = app;
