@@ -1,0 +1,572 @@
+{
+    "course": {
+      "title": "Accounting 2",
+      "crn": "FMGT 2100",
+      "subject": "Financial Management",
+      "scope": "Course",
+      "overview": {
+        "descr": "This course is the second of two designed to provide first year students with a general understanding of the nature, purpose and general procedures of accounting. The course examines notes and accounts receivables; capital assets; liabilities; partnerships; corporations and consolidations; international transactions; financial statement analysis; and cash flow statements.​",
+        "prereq": ["50% in FMGT 1100 or 50% in FMGT 1105"],
+        "credits": 5.5,
+        "domestic_fees": {
+          "min": 745.76,
+          "max": 760.05
+        }
+      },
+      "outcomes": [
+        "Prepare journal and adjusting entries to record transactions in each topic area studied.",
+        "Apply generally accepted accounting principles and determine how they influence financial reporting.",
+        "Explain the purpose and need for internal controls and prepare bank reconciliations.",
+        "Evaluate the nature and management of accounts and notes receivable and the aging of accounts receivables.",
+        "Analyze the purpose and demonstrate the calculation of amortization on various types of property, plant, and equipment using generally accepted accounting principles.",
+        "Assess the nature and behavior of interest-bearing instruments such as bonds, notes payable, and notes receivable (both short and long term) while demonstrating appropriate accounting treatments.",
+        "Describe and differentiate the advantages and disadvantages of a corporation, a partnership, and a sole proprietorship as forms of business organization.",
+        "Demonstrate the accounting required for the shareholders' equity of a corporation including the issuance of shares, the declaration and payment of dividends, and the related effect on Retained Earnings.",
+        "Evaluate and apply appropriate treatment of extraordinary items, prior period adjustments, and accounting changes.",
+        "Demonstrate the treatments and entries required for a basic payroll system.",
+        "Describe the nature of consolidated financial statements, and apply appropriate short-term and long-term investment principles to other forms of investment or ownership.",
+        "Demonstrate appropriate accounting for a partnership including: addition of partners, allocation of earnings or losses, withdrawal of partners, and liquidation of partnerships.",
+        "Prepare a statement of cash flows under indirect and direct methods. Explain the nature of cash, working capital, and the various sources and uses of cash as it pertains to the management of a business.",
+        "Analyze financial statements by computing financial ratios and various analysis methods."
+    ],
+      "related_programs": [
+        "Accounting, Diploma / Part-time ",
+        "Computerized Accounting, Associate Certificate / Part-time",
+        "Finance, Diploma / Part-time",
+        "Financial Management (Finance Option), Certificate / Part-time",
+        "Financial Management (Professional Accounting Option), Certificate / Part-time"
+      ],
+      "offerings": [
+        {
+          "term": "Fall 2024",
+          "schedule": [
+            {
+              "crn": 48955,
+              "status": {
+                "name": "In Progress",
+                "value": "inProgress"
+              },
+              "domestic_fee": 760.05,
+              "dates": "Sep 09 - Dec 07",
+              "duration": "13 weeks",
+              "meeting_metrics": [
+                {
+                  "dates": "Sep 09 - Dec 07",
+                  "days": "N/A",
+                  "times": "N/A",
+                  "locations": "Online"
+                },
+                {
+                  "dates": "Oct 26",
+                  "days": "Sat",
+                  "times": "10:00 - 12:30",
+                  "locations": "Burnaby",
+                  "room": "SW01 Rm. 2005"
+                },
+                {
+                  "dates": "Dec 07",
+                  "days": "Sat",
+                  "times": "10:00 - 12:30",
+                  "locations": "Burnaby",
+                  "room": "SW01 Rm. 2005"
+                }
+              ],
+              "instructor": "Tim Edwards",
+              "outline": "https://www.bcit.ca/outlines/20243048955",
+              "important_info": [
+                "International fees are typically 3.12 times the domestic tuition. Exact cost will be calculated upon completion of registration.",
+                "Exams will be held IN PERSON at the Burnaby Campus as noted above. This course is asynchronous, but not self-paced. Students must complete the assignments as shown on the course schedule. This course may not be audited. Accounting 2 students require ONLY volume 2 of Weygandt: Accounting Principles. Please email any questions regarding this section to FMGT_Online@bcit.ca."
+              ]
+            },
+            {
+              "crn": 30753,
+              "status": {
+                "name": "Full",
+                "value": "full"
+              },
+              "domestic_fee": 745.76,
+              "dates": "Sep 10 - Dec 03",
+              "duration": "13 weeks",
+              "meeting_metrics": [
+                {
+                  "dates": "Sep 10 - Oct 15",
+                  "days": "Tue",
+                  "times": "17:30 - 21:30",
+                  "locations": "Online"
+                },
+                {
+                  "dates": "Oct 22",
+                  "days": "Tue",
+                  "times": "17:30 - 21:30",
+                  "locations": "Downtown",
+                  "room": "DTC Rm. 381"
+                },
+                {
+                  "dates": "Oct 29 - Nov 26",
+                  "days": "Tue",
+                  "times": "17:30 - 21:30",
+                  "locations": "Online"
+                },
+                {
+                  "dates": "Dec 03",
+                  "days": "Tue",
+                  "times": "17:30 - 21:30",
+                  "locations": "Downtown",
+                  "room": "DTC Rm. 381"
+                }
+              ],
+              "instructor": "Mandeep Mann",
+              "outline": "https://www.bcit.ca/outlines/20243030753",
+              "important_info": [
+                "Important course information will be sent to you prior to your course start date. Check your myBCIT email account to access this information.",
+                "International fees are typically 3.12 times the domestic tuition. Exact cost will be calculated upon completion of registration.",
+                "The following dates will be HELD IN-CLASS at the Burnaby Campus. Midterm: Tuesday, October 22nd (17:30 - 21:30) Mid-Term Exam De-Brief (To Be Determined – Instructor to provide further information) (17:30 – 21:30) Final Exam: Tuesday, December 3rd (17:30- 21:30) This is not a self-paced course. You will be expected to be available and online on the posted days and times shown on your registration schedule. It is important you have a stable and consistent internet connection to access course content. Course content, type and quality of assignments, and general standards for this online course are the same as classroom courses. To be successful in this online course, plan to spend 7-10 hours per week on your studies, or more of it’s a condensed course, starting Week 1. Important course information will be sent to your myBCIT account prior to your course start date. Accounting 2 students require the Accounting Principles, 9th Canadian Edition (Volume 2) text by Wiley. This course includes the WileyPlus program which offers accounting problems, exercises and feedback for students. This program requires an access PIN code - available in NEW textbook packages. If students purchase used texts there will be an additional fee to obtain the access PIN code. Course instructors will provide WileyPlus information in the first class."
+              ]
+            },
+            {
+              "crn": 33249,
+              "status": {
+                "name": "In Progress",
+                "value": "inProgress"
+              },
+              "domestic_fee": 745.76,
+              "dates": "Sep 11 - Dec 04",
+              "duration": "13 weeks",
+              "meeting_metrics": [
+                {
+                  "dates": "Sep 11 - Oct 16",
+                  "days": "Wed",
+                  "times": "13:00 - 17:00",
+                  "locations": "Online"
+                },
+                {
+                  "dates": "Oct 23",
+                  "days": "Wed",
+                  "times": "13:00 - 17:00",
+                  "locations": "Downtown",
+                  "room": "DTC Rm. 483"
+                },
+                {
+                  "dates": "Oct 30 - Nov 27",
+                  "days": "Wed",
+                  "times": "13:00 - 17:00",
+                  "locations": "Online"
+                },
+                {
+                  "dates": "Dec 04",
+                  "days": "Wed",
+                  "times": "13:00 - 17:00",
+                  "locations": "Downtown",
+                  "room": "DTC Rm. 483"
+                }
+              ],
+              "instructor": "Peter Goel",
+              "outline": "https://www.bcit.ca/outlines/20243033249",
+              "important_info": [
+                "Important course information will be sent to you prior to your course start date. Check your myBCIT email account to access this information.",
+                "International fees are typically 3.12 times the domestic tuition. Exact cost will be calculated upon completion of registration.",
+                "The following dates will be HELD IN-CLASS at the Burnaby Campus. Midterm: October 23rd (13:00-17:00) Final Exam: December 4th (13:00-17:00) This is not a self-paced course. You will be expected to be available and online on the posted days and times shown on your registration schedule. It is important you have a stable and consistent internet connection to access course content. Course content, type and quality of assignments, and general standards for this online course are the same as classroom courses. To be successful in this online course, plan to spend 7-10 hours per week on your studies, or more of it’s a condensed course, starting Week 1. Important course information will be sent to your myBCIT account prior to your course start date. Accounting 2 students require the Accounting Principles, 9th Canadian Edition (Volume 2) text by Wiley. This course includes the WileyPlus program which offers accounting problems, exercises and feedback for students. This program requires an access PIN code - available in NEW textbook packages. If students purchase used texts there will be an additional fee to obtain the access PIN code. Course instructors will provide WileyPlus information in the first class."
+              ]
+            },
+            {
+              "crn": 31287,
+              "status": {
+                "name": "In Progress",
+                "value": "inProgress"
+              },
+              "domestic_fee": 760.05,
+              "dates": "Sep 14 - Dec 07",
+              "duration": "13 weeks",
+              "meeting_metrics": [
+                {
+                  "dates": "Sep 14 - Dec 07",
+                  "days": "Sat",
+                  "times": "09:00 - 13:00",
+                  "locations": "Burnaby",
+                  "room": "SW03 Rm. 1750"
+                }
+              ],
+              "instructor": "Barbara Fellnermayr",
+              "outline": "https://www.bcit.ca/outlines/20243031287",
+              "important_info": [
+                "Important course information will be sent to you prior to your course start date. Check your myBCIT email account to access this information.",
+                "International fees are typically 3.12 times the domestic tuition. Exact cost will be calculated upon completion of registration.",
+                "Accounting 2 students require the Accounting Principles, 9th Canadian Edition (Volume 2) text by Wiley. This course includes the WileyPlus program which offers accounting problems, exercises and feedback for students. This program requires an access PIN code - available in NEW textbook packages. If students purchase used texts there will be an additional fee to obtain the access PIN code. Course instructors will provide WileyPlus information in the first class."
+              ]
+            },
+            {
+              "crn": 30756,
+              "status": {
+                "name": "In Progress",
+                "value": "inProgress"
+              },
+              "domestic_fee": 760.05,
+              "dates": "Oct 19 - Nov 30",
+              "duration": "7 weeks",
+              "meeting_metrics": [
+                {
+                  "dates": "Oct 19 - Nov 02",
+                  "days": "Sat",
+                  "times": "09:00 - 17:00",
+                  "locations": "Online"
+                },
+                {
+                  "dates": "Nov 09",
+                  "days": "Sat",
+                  "times": "09:00 - 12:00",
+                  "locations": "Online"
+                },
+                {
+                  "dates": "Nov 09",
+                  "days": "Sat",
+                  "times": "13:00 - 17:00",
+                  "locations": "Burnaby",
+                  "room": "SE06 Rm. 207"
+                },
+                {
+                  "dates": "Nov 16 - Nov 23",
+                  "days": "Sat",
+                  "times": "09:00 - 17:00",
+                  "locations": "Online"
+                },
+                {
+                  "dates": "Nov 30",
+                  "days": "Sat",
+                  "times": "09:00 - 12:00",
+                  "locations": "Online"
+                },
+                {
+                  "dates": "Nov 30",
+                  "days": "Sat",
+                  "times": "13:00 - 17:00",
+                  "locations": "Burnaby",
+                  "room": "SE06 Rm. 207"
+                }
+              ],
+              "instructor": "Murray Livergant",
+              "outline": "https://www.bcit.ca/outlines/20243030756",
+              "important_info": [
+                "Important course information will be sent to you prior to your course start date. Check your myBCIT email account to access this information.",
+                "International fees are typically 3.12 times the domestic tuition. Exact cost will be calculated upon completion of registration.",
+                "The following dates will be HELD IN-CLASS at the Burnaby Campus. Midterm: Saturday, November 9th, Final: Saturday, November 30th. This is not a self-paced course. You will be expected to be available and online on the posted days and times shown on your registration schedule. It is important you have a stable and consistent internet connection to access course content. Course content, type and quality of assignments, and general standards for this online course are the same as classroom courses. To be successful in this online course, plan to spend 7-10 hours per week on your studies, or more of it’s a condensed course, starting Week 1. Important course information will be sent to your myBCIT account prior to your course start date. Accounting 2 students require the Accounting Principles, 9th Canadian Edition (Volume 2) text by Wiley. This course includes the WileyPlus program which offers accounting problems, exercises and feedback for students. This program requires an access PIN code - available in NEW textbook packages. If students purchase used texts there will be an additional fee to obtain the access PIN code. Course instructors will provide WileyPlus information in the first class."
+              ]
+            },
+            {
+              "crn": 33248,
+              "status": {
+                "name": "In Progress",
+                "value": "inProgress"
+              },
+              "domestic_fee": 760.05,
+              "dates": "Oct 31 - Dec 16",
+              "duration": "7 weeks",
+              "meeting_metrics": [
+                {
+                  "dates": "Oct 31 - Nov 21",
+                  "days": "Mon, Thu",
+                  "times": "18:00 - 22:00",
+                  "locations": "Online"
+                },
+                {
+                  "dates": "Nov 25",
+                  "days": "Mon",
+                  "times": "18:00 - 22:00",
+                  "locations": "Burnaby",
+                  "room": "SE06 Rm. 207"
+                },
+                {
+                  "dates": "Nov 28 - Dec 12",
+                  "days": "Mon, Thu",
+                  "times": "18:00 - 22:00",
+                  "locations": "Online"
+                },
+                {
+                  "dates": "Dec 16",
+                  "days": "Mon",
+                  "times": "18:00 - 22:00",
+                  "locations": "Burnaby",
+                  "room": "SE06 Rm. 207"
+                }
+              ],
+              "instructor": "Murray Livergant",
+              "outline": "https://www.bcit.ca/outlines/20243033248",
+              "important_info": [
+                "Important course information will be sent to you prior to your course start date. Check your myBCIT email account to access this information.",
+                "International fees are typically 3.12 times the domestic tuition. Exact cost will be calculated upon completion of registration.",
+                "The following dates will be HELD IN-CLASS at the Burnaby Campus. Midterm: Monday, November 25th (18:00 – 22:00), Final: Monday, December 16th (18:00 – 22:00). Class WILL NOT be held on Monday, November 11th (Remembrance Day). This is not a self-paced course. You will be expected to be available and online on the posted days and times shown on your registration schedule. It is important you have a stable and consistent internet connection to access course content. Course content, type and quality of assignments, and general standards for this online course are the same as classroom courses. To be successful in this online course, plan to spend 7-10 hours per week on your studies, or more of it’s a condensed course, starting Week 1. Important course information will be sent to your myBCIT account prior to your course start date. Accounting 2 students require the Accounting Principles, 9th Canadian Edition (Volume 2) text by Wiley. This course includes the WileyPlus program which offers accounting problems, exercises and feedback for students. This program requires an access PIN code - available in NEW textbook packages. If students purchase used texts there will be an additional fee to obtain the access PIN code. Course instructors will provide WileyPlus information in the first class."
+              ]
+            }
+          ]
+        },
+        {
+          "term": "Winter 2025",
+          "schedule": [
+            {
+              "crn": 10174,
+              "status": {
+                "name": "Available",
+                "value": "available"
+              },
+              "domestic_fee": 760.05,
+              "dates": "Jan 06 - Apr 07",
+              "duration": "13 weeks",
+              "meeting_metrics": [
+                {
+                  "dates": "Jan 06 - Apr 07",
+                  "days": "Mon",
+                  "times": "18:00 - 22:00",
+                  "locations": "Burnaby",
+                  "room": "SE06 Rm. 205"
+                }
+              ],
+              "instructor": "Barbara Fellnermayr",
+              "outline": "Course outline TBD — see Learning Outcomes in the interim.",
+              "important_info": [
+                "International fees are typically 3.12 times the domestic tuition. Exact cost will be calculated upon completion of registration.",
+                "Class WILL NOT be held Monday, February 17th (Family Day). This course includes the WileyPlus program. This program requires an access PIN code available in NEW textbook packages. If students purchase used texts there will be an additional fee to obtain the access PIN code. Instructor will hand out WileyPlus information in the first class."
+              ]
+            },
+            {
+              "crn": 10196,
+              "status": {
+                "name": "Available",
+                "value": "available"
+              },
+              "domestic_fee": 745.76,
+              "dates": "Jan 06 - Apr 07",
+              "duration": "13 weeks",
+              "meeting_metrics": [
+                {
+                  "dates": "Jan 06 - Feb 10",
+                  "days": "Mon",
+                  "times": "17:30 - 21:30",
+                  "locations": "Online"
+                },
+                {
+                  "dates": "Feb 24",
+                  "days": "Mon",
+                  "times": "17:30 - 21:30",
+                  "locations": "Downtown",
+                  "room": "DTC Rm. 470"
+                },
+                {
+                  "dates": "Mar 03",
+                  "days": "Mon",
+                  "times": "17:30 - 21:30",
+                  "locations": "Downtown",
+                  "room": "DTC Rm. 470"
+                },
+                {
+                  "dates": "Mar 10 - Mar 31",
+                  "days": "Mon",
+                  "times": "17:30 - 21:30",
+                  "locations": "Online"
+                },
+                {
+                  "dates": "Apr 07",
+                  "days": "Mon",
+                  "times": "17:30 - 21:30",
+                  "locations": "Downtown",
+                  "room": "DTC Rm. 470"
+                }
+              ],
+              "instructor": "Gary Nitikman",
+              "outline": "Course outline TBD — see Learning Outcomes in the interim.",
+              "important_info": [
+                "International fees are typically 3.12 times the domestic tuition. Exact cost will be calculated upon completion of registration.",
+                "The following dates will be HELD IN-PERSON at the Downtown Campus and are MANDATORY. Mid-Term: Monday, February 24th (17:30 - 21:30) Mid-Term De-Brief: Monday, March 3rd (17:30 - 21:30) Final: Monday, April 7th (17:30 - 21:30) Class WILL NOT be held Monday, February 17th (Family Day). This is not a self-paced course. You will be expected to be available and online on the posted days and times shown on your registration schedule. It is important you have a stable and consistent internet connection to access course content. The in-person dates/classes are required for students to attend, and have MANDATORY ATTENDANCE. Course content, type and quality of assignments, and general standards for this online course are the same as classroom courses. To be successful in this online course, plan to spend 7-10 hours per week on your studies, or more of it’s a condensed course, starting Week 1. Important course information will be sent to your myBCIT account prior to your course start date. This course includes the WileyPlus program. This program requires an access PIN code available in NEW textbook packages. If students purchase used texts there will be an additional fee to obtain the access PIN code. Instructor will hand out WileyPlus information in the first class."
+              ]
+            },
+            {
+              "crn": 90369,
+              "status": {
+                "name": "Available",
+                "value": "available"
+              },
+              "domestic_fee": 760.05,
+              "dates": "Jan 06 - Apr 05",
+              "duration": "13 weeks",
+              "meeting_metrics": [
+                {
+                  "dates": "Jan 06 - Apr 05",
+                  "days": "N/A",
+                  "times": "N/A",
+                  "locations": "Online"
+                },
+                {
+                  "dates": "Feb 22",
+                  "days": "Sat",
+                  "times": "10:00 - 12:30",
+                  "locations": "Burnaby",
+                  "room": "SE06 Rm. 204"
+                },
+                {
+                  "dates": "Apr 05",
+                  "days": "Sat",
+                  "times": "10:00 - 12:30",
+                  "locations": "Burnaby",
+                  "room": "SE06 Rm. 204"
+                }
+              ],
+              "instructor": "Tim Edwards",
+              "outline": "Course outline TBD — see Learning Outcomes in the interim.",
+              "important_info": [
+                "International fees are typically 3.12 times the domestic tuition. Exact cost will be calculated upon completion of registration.",
+                "The following dates will be HELD IN-PERSON at the Burnaby Campus. Midterm: Saturday, February 22nd (10:00 - 12:30) and Final: Saturday, April 5th (10:00 - 12:30). This course is asynchronous, but not self-paced. Students must complete the assignments as shown on the course schedule. This course may not be audited. Accounting 2 students require ONLY volume 2 of Weygandt: Accounting Principles. Please email any questions regarding this section to FMGT_Online@bcit.ca."
+              ]
+            },
+            {
+              "crn": 73115,
+              "status": {
+                "name": "Available",
+                "value": "available"
+              },
+              "domestic_fee": 760.05,
+              "dates": "Jan 08 - Apr 02",
+              "duration": "13 weeks",
+              "meeting_metrics": [
+                {
+                  "dates": "Jan 08 - Apr 02",
+                  "days": "Wed",
+                  "times": "13:00 - 17:00",
+                  "locations": "Burnaby",
+                  "room": "NE01 Rm. 404"
+                }
+              ],
+              "instructor": "Randy Robinson",
+              "outline": "Course outline TBD — see Learning Outcomes in the interim.",
+              "important_info": [
+                "International fees are typically 3.12 times the domestic tuition. Exact cost will be calculated upon completion of registration.",
+                "This course includes the WileyPlus program. This program requires an access PIN code available in NEW textbook packages. If students purchase used texts there will be an additional fee to obtain the access PIN code. Instructor will hand out WileyPlus information in the first class."
+              ]
+            },
+            {
+              "crn": 10190,
+              "status": {
+                "name": "Available",
+                "value": "available"
+              },
+              "domestic_fee": 760.05,
+              "dates": "Jan 11 - Apr 05",
+              "duration": "13 weeks",
+              "meeting_metrics": [
+                {
+                  "dates": "Jan 11 - Apr 05",
+                  "days": "Sat",
+                  "times": "09:00 - 13:00",
+                  "locations": "Burnaby",
+                  "room": "SW01 Rm. 2004"
+                }
+              ],
+              "instructor": "Gary Nitikman",
+              "outline": "Course outline TBD — see Learning Outcomes in the interim.",
+              "important_info": [
+                "International fees are typically 3.12 times the domestic tuition. Exact cost will be calculated upon completion of registration.",
+                "This course includes the WileyPlus program. This program requires an access PIN code available in NEW textbook packages. If students purchase used texts there will be an additional fee to obtain the access PIN code. Instructor will hand out WileyPlus information in the first class."
+              ]
+            },
+            {
+              "crn": 42804,
+              "status": {
+                "name": "Available",
+                "value": "available"
+              },
+              "domestic_fee": 760.05,
+              "dates": "Feb 15 - Mar 29",
+              "duration": "7 weeks",
+              "meeting_metrics": [
+                {
+                  "dates": "Feb 15 - Mar 01",
+                  "days": "Sat",
+                  "times": "09:00 - 17:00",
+                  "locations": "Online"
+                },
+                {
+                  "dates": "Mar 08",
+                  "days": "Sat",
+                  "times": "09:00 - 12:00",
+                  "locations": "Online"
+                },
+                {
+                  "dates": "Mar 08",
+                  "days": "Sat",
+                  "times": "13:00 - 17:00",
+                  "locations": "Burnaby",
+                  "room": "SE06 Rm. 204"
+                },
+                {
+                  "dates": "Mar 15 - Mar 22",
+                  "days": "Sat",
+                  "times": "09:00 - 17:00",
+                  "locations": "Online"
+                },
+                {
+                  "dates": "Mar 29",
+                  "days": "Sat",
+                  "times": "09:00 - 12:00",
+                  "locations": "Online"
+                },
+                {
+                  "dates": "Mar 29",
+                  "days": "Sat",
+                  "times": "13:00 - 17:00",
+                  "locations": "Burnaby",
+                  "room": "SE06 Rm. 204"
+                }
+              ],
+              "instructor": "Murray Livergant",
+              "outline": "Course outline TBD — see Learning Outcomes in the interim.",
+              "important_info": [
+                "International fees are typically 3.12 times the domestic tuition. Exact cost will be calculated upon completion of registration.",
+                "The following dates will be HELD IN-CLASS at the Burnaby Campus and are MANDATORY. Mid-Term: Saturday, March 8th (13:00 - 17:00) and Final: Saturday, March 29th (13:00 - 17:00) This is not a self-paced course. You will be expected to be available and online on the posted days and times shown on your registration schedule. It is important you have a stable and consistent internet connection to access course content. Attendance for the in-person exams/classes is MANDATORY. Course content, type and quality of assignments, and general standards for this online course are the same as classroom courses. To be successful in this online course, plan to spend 7-10 hours per week on your studies, or more of it’s a condensed course, starting Week 1. Important course information will be sent to your myBCIT account prior to your course start date. This course includes the WileyPlus program. This program requires an access PIN code available in NEW textbook packages. If students purchase used texts there will be an additional fee to obtain the access PIN code. Instructor will hand out WileyPlus information in the first class."
+              ]
+            },
+            {
+              "crn": 47577,
+              "status": {
+                "name": "Available",
+                "value": "available"
+              },
+              "domestic_fee": 760.05,
+              "dates": "Feb 24 - Apr 07",
+              "duration": "8 weeks",
+              "meeting_metrics": [
+                {
+                  "dates": "Feb 24 - Mar 13",
+                  "days": "Mon, Thu",
+                  "times": "18:00 - 22:00",
+                  "locations": "Online"
+                },
+                {
+                  "dates": "Mar 17",
+                  "days": "Mon",
+                  "times": "18:00 - 22:00",
+                  "locations": "Burnaby",
+                  "room": "SE06 Rm. 204"
+                },
+                {
+                  "dates": "Mar 20 - Apr 03",
+                  "days": "Mon, Thu",
+                  "times": "18:00 - 22:00",
+                  "locations": "Online"
+                },
+                {
+                  "dates": "Apr 07",
+                  "days": "Mon",
+                  "times": "18:00 - 22:00",
+                  "locations": "Burnaby",
+                  "room": "SE06 Rm. 204"
+                }
+              ],
+              "instructor": "Murray Livergant",
+              "outline": "Course outline TBD — see Learning Outcomes in the interim.",
+              "important_info": [
+                "International fees are typically 3.12 times the domestic tuition. Exact cost will be calculated upon completion of registration.",
+                "The following dates will be HELD IN-CLASS at the Burnaby Campus and are MANDATORY. Mid-Term: Thursday, March 17th (18:00 - 22:00) and Final: Monday, April 7th (18:00 - 22:00) Class WILL NOT be held Monday, April 1st (Easter Monday). This is not a self-paced course. You will be expected to be available and online on the posted days and times shown on your registration schedule. It is important you have a stable and consistent internet connection to access course content. Attendance for the in-person exams/classes is MANDATORY. Course content, type and quality of assignments, and general standards for this online course are the same as classroom courses. To be successful in this online course, plan to spend 7-10 hours per week on your studies, or more of it’s a condensed course, starting Week 1. Important course information will be sent to your myBCIT account prior to your course start date. This course includes the WileyPlus program. This program requires an access PIN code available in NEW textbook packages. If students purchase used texts there will be an additional fee to obtain the access PIN code. Instructor will hand out WileyPlus information in the first class."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
